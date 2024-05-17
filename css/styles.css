@@ -3887,12 +3887,6 @@ input[type="button"].btn--primary:focus {
     padding-bottom: var(--vspace-4);
 }
 
-.s-latest-project {
-    background-color: white;
-    padding-top: calc(6 * var(--space));
-    padding-bottom: var(--vspace-4);
-}
-
 .s-resume__section {
     border-bottom: 1px solid var(--color-border);
     padding-bottom: var(--vspace-0_75);
